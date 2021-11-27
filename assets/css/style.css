@@ -430,7 +430,11 @@ section {
 
 #footer .footer-top {
     padding: 55px 0 30px 0;
-    background: #fff;
+    background: #f1f3f6;
+}
+
+.footer {
+    background-color: #f1f3f6;
 }
 
 #footer .footer-top .footer-contact {
